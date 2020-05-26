@@ -1,5 +1,5 @@
 ﻿//Patrik Sullivan psullivan8@cnm.edu
-//SullivanIdealGasCalculator 05/20/2020
+//SullivanIdealGasCalculator 05/26/2020
 
 using System;
 using System.Collections.Generic;
